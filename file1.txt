@@ -1,1 +1,2 @@
 Line2 file1
+New line Paul
